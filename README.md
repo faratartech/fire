@@ -20,5 +20,7 @@ But Fire! is **100% True Positive** Because the User Decides What is The Virus
 ### Note!
 This is A Small Project And **it must Remain Small to Remain Useful**,  
 Because **Viruses Can Corrupt the Program When Running**!  
-#001  
-(This issue Will Be Fixed Soon)
+- [ ] #1
+
+
+(This issue Will Be Fixed Soon)  
